@@ -6,7 +6,7 @@
 # Breakout: 11
 
 def run () :
-  score = float(input("Enter you CMPSC 131 grade: "))
+  score = float(input("Enter your CMPSC 131 grade: "))
   print(f"Your letter grade in CMPSC 131 is \
 {getLetterGrade(score)}.")
 
