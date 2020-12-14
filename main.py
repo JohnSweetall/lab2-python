@@ -29,3 +29,6 @@ def getLetterGrade(score):
     return "D"
   else:
     return "F"
+
+if __name__ == "__main__":
+  run()
